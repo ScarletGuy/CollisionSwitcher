@@ -18,6 +18,6 @@ Obviously, a group it should affect.
 - Turn("turn"):
 A type of change. Either "on", "off" or "toggle". On if you want it to turn the group on, off is opposite and toggle if you want it to change a state of the group every time player touches it.
 - L(l):
-If specified, it will send the player to a specified layer. You just need to write name of the layer.
+If specified, it will send the player to a specified layer. You just need to write name of the layer(It has to be "Tile" layer).
 
 NOTE: All custom properties are strings.
